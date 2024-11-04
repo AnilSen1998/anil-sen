@@ -1,0 +1,184 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.custom-colorNAV {
+    color: #444444;
+}
+
+.custom-colorNAV:hover {
+    color: #616FF2;
+}
+
+
+
+.custom-Hero {
+    background-color: #f8f9fa;
+}
+
+.custom-btn {
+    background-color: #616FF2;
+    color: #FFFFFF;
+}
+
+.custom-btn1 {
+    color: #616FF2;
+}
+
+.custom-Howit {
+    background-color: #051822;
+
+}
+
+.custom-What {
+    background-color: #051822;
+
+}
+
+.gradient-text {
+    background: linear-gradient(to right, #e9b0e9, #800da0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.gradient-texto {
+    background: linear-gradient(to right, #5e70f2, #378297);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.custom-container-fluid1 {
+    background-image: url('bgk1.image/bg1.3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.custom-container-fluidO {
+    background-color: #F8F9FA;
+}
+
+.icon-bg2 {
+
+    /* background-color: #5F3297; */
+    background-color: linear-gradient(to right, #e9b0e9, #800da0);
+
+}
+
+.icon-bg1 {
+    background-color: #d8c28f;
+}
+
+
+.custom-iconc {
+    color: #fdf8f8;
+}
+
+.custom-container-fluidh {
+    background-image: url('bgk1.image/gradient1.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.custom-color-h1 {
+    color: #74CDD2;
+}
+
+.custom-container-fluidTr {
+    background-image: url('bgk1.image/gradient1.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.custom-colorTr-h1 {
+    color: #052A75;
+}
+
+.custom-colorEx-p {
+    color: #67CCD1;
+}
+
+.custom-cardReady {
+    background-image: url('bgk1.image/gradient1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.custom-btnPlan {
+
+    color: #8188F9;
+}
+
+.custom-btnPlan:hover {
+
+    background-color: #8188F9;
+}
+
+.custom-btnMVP {
+    background-color: #8188F9;
+}
+
+.custom-Pricing {
+    background-color: #F8F8F8;
+}
+
+.custom-nav-item .a {
+    background-color: #F8F9FA;
+}
+
+
+.custom-btn {
+
+    background-color: #5D6CF6;
+}
+
+.custom-btn1 {
+    color: #5D6CF6;
+}
+
+.custom-card {
+    background-color: #F8F9FA;
+}
+
+.custom-card1 {
+    background-color: #FEFFFF;
+}
+
+.custom-icon {
+    color: #5D6CF6;
+}
+
+.custom-icon1 {
+    color: #8A6CFF;
+}
+
+.custom-icon1 {
+    background-color: #8A6CFF;
+    color: #FFFFFF;
+}
+
+.custom-color {
+    background-color: aquamarine;
+}
+
+.custom-color1 {
+    background-color: darksalmon;
+
+}
+
+.image {
+    width: 40px;
+}
+
+
+.custom-bg-footer {
+    background-color: #051822;
+}
+
+.custom-border-bottom {
+    border-bottom: 2px solid #F28123;
+}
